@@ -14,4 +14,5 @@ Key objectives of the project:
 
 ## UK Energy Consumption 
 
-From the uk 
+From the UK government website data was sourced for the energy consumption in the UK as of 2024. After cleaning and sorting the data the UK energy consumption by sector and by fuel was visualized as seen below.
+![Page1](Image/Page1)
