@@ -93,7 +93,7 @@ The rise in renewable energy, particularly wind, wave, and solar, reflects a gro
 ## Energy Imports 
 ![Page4](Image/Page4.png)
 ### Electrical Imports/Exports Bar Graph
-This graph shows the balance between the UK’s energy imports and exports from 1995 to 2025. The blue bars represent imports of electricity, while the light blue bars represent exports
+This graph shows the balance between the UK’s energy imports and exports from 1995 to 2023. The blue bars represent imports of electricity, while the light blue bars represent exports
 
 Analysis
 - The UK has consistently imported more energy than it has exported, with imports growing significantly over time.
